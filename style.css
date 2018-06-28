@@ -1,0 +1,296 @@
+
+
+#earLeft1   {height: 0;
+    width: 0;
+    border-top: 200px solid transparent;
+    border-bottom: 200px solid transparent;
+    border-left: 70px solid yellow;
+    position: absolute;
+    transform: rotate(-20deg);
+    margin-top: 100px;
+    margin-left: 265px;
+    
+    }
+
+#earLeft2   {height: 200px;
+    width: 40px;
+    transform: rotate(-20deg);
+    border-radius: 50%;
+    position: absolute;
+    background-color: yellow;
+    margin-top: 140px;
+    margin-left: 225px;
+}
+
+#earLeftBlack1   {height: 0;
+    width: 0;
+    border-top: 50px solid transparent;
+    border-bottom: 50px solid transparent;
+    border-left: 30px solid black;
+    position: absolute;
+    transform: rotate(-10deg);
+    margin-top: 120px;
+    margin-left: 207px;}
+
+#earLeftBlack2  {height: 100px;
+    width: 10px;
+    border-radius: 50%;
+    transform: rotate(-10deg);
+    position: absolute;
+    background-color: black;
+    margin-top: 122px;
+    margin-left: 202px;
+    }
+
+#earRight1   {height: 0;
+    width: 0;
+    border-top: 200px solid transparent;
+    border-bottom: 200px solid transparent;
+    border-left: 70px solid yellow;
+    position: absolute;
+    transform: rotate(90deg);
+    margin-top: 120px;
+    margin-left: 465px;
+    
+    }
+
+#earRight2   {height: 200px;
+    width: 40px;
+    transform: rotate(80deg);
+    border-radius: 50%;
+    position: absolute;
+    background-color: yellow;
+    margin-top: 210px;
+    margin-left: 560px;
+}
+
+#earRightBlack1   {height: 0;
+    width: 0;
+    border-top: 50px solid transparent;
+    border-bottom: 50px solid transparent;
+    border-left: 30px solid black;
+    position: absolute;
+    transform: rotate(90deg);
+    margin-top: 248px;
+    margin-left: 632px;}
+
+#earRightBlack2  {height: 58px;
+    width: 10px;
+    border-radius: 50%;
+    transform: rotate(60deg);
+    position: absolute;
+    background-color: black;
+    margin-top: 270px;
+    margin-left: 667px;
+    }
+
+
+#headUp {height: 260px;
+    width: 270px;
+    position: absolute;
+    background-color: yellow;
+    border-top-right-radius: 45%;
+    border-top-left-radius: 45%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    margin-top: 260px;
+    margin-left: 265px;
+    }
+
+#headDown   {height: 240px;
+    width: 300px;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    background-color: yellow;
+    margin-top: 350px;
+    margin-left: 250px;
+    position: absolute;
+    }
+
+#eyeLeft    {height: 60px;
+    width: 55px;
+    background-color: black;
+    position: absolute;
+    border-radius: 60%;
+    margin-left: 300px;
+    margin-top: 375px;
+    }
+
+#eyeRight    {height: 60px;
+    width: 55px;
+    background-color: black;
+    position: absolute;
+    border-radius: 60%;
+    margin-left: 450px;
+    margin-top: 375px;
+    }
+
+#eyeLeftSparkle {height: 20px;
+    width: 20px;
+    border-radius: 100%;
+    position: absolute;
+    margin-left: 325px;
+    margin-top: 382px;
+    background-color: white;
+    }
+    
+#eyeRightSparkle {height: 20px;
+    width: 20px;
+    border-radius: 100%;
+    position: absolute;
+    margin-left: 460px;
+    margin-top: 382px;
+    background-color: white;
+    }
+
+#nose   {height: 0;
+    width: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid black;
+    position: absolute;
+    border-radius: 40%;
+    margin-left: 390px;
+    margin-top: 460px;
+    }
+
+#smileFirstContourLeft  {height: 0;
+    width: 0;
+    border-style: solid;
+    border-width: 80px 31px 0 30px;
+    border-color: black transparent transparent transparent;
+    position: absolute;
+    margin-left: 339px;
+    margin-top: 490px;}
+
+#smileFirst {
+    height: 0;
+    width: 0;
+    border-style: solid;
+    border-width: 80px 31px 0 30px;
+    border-color: lightpink transparent transparent transparent;
+    position: absolute;
+    margin-left: 340px;
+    margin-top: 490px;
+    
+}
+
+#smileFirstContourUp  {height: 50px;
+    width: 65px;
+    border-radius: 70%;
+    position: absolute;
+    background-color: black;
+    margin-left: 336px;
+    margin-top: 463px;}
+
+
+#smileFirst1 {height: 50px;
+    width: 65px;
+    border-radius: 70%;
+    position: absolute;
+    background-color: yellow;
+    margin-left: 337px;
+    margin-top: 460px;
+    }
+
+#smileSecond {
+    width: 0;
+	height: 0;
+	border-left: 30px solid transparent;
+	border-right: 31px solid transparent;
+	border-bottom: 80px solid lightpink;
+	position: absolute;
+    margin-left: 370px;
+    margin-top: 490px;
+    
+}
+
+#smileSecondContour {height: 50px;
+    width: 65px;
+    border-radius: 70%;
+    position: absolute;
+    background-color: black;
+    margin-left: 367px;
+    margin-top: 537px;   
+    }
+
+#smileSecond1 {height: 50px;
+    width: 65px;
+    border-radius: 70%;
+    position: absolute;
+    background-color: deeppink;
+    margin-left: 367px;
+    margin-top: 535px;
+    }
+
+#smileThirdContourRight {height: 0;
+    width: 0;
+    border-style: solid;
+    border-width: 80px 30px 0 30px;
+    border-color: black transparent transparent transparent;
+    position: absolute;
+    margin-left: 401px;
+    margin-top: 490px;}
+
+#smileThird {
+    height: 0;
+    width: 0;
+    border-style: solid;
+    border-width: 80px 30px 0 30px;
+    border-color: lightpink transparent transparent transparent;
+    position: absolute;
+    margin-left: 400px;
+    margin-top: 490px;}
+
+#smileThirdContour  {height: 50px;
+    width: 65px;
+    border-radius: 70%;
+    position: absolute;
+    background-color: black;
+    margin-left: 398px;
+    margin-top: 463px;
+    }
+
+#smileThird1 {height: 50px;
+    width: 65px;
+    border-radius: 70%;
+    position: absolute;
+    background-color: yellow;
+    margin-left: 397px;
+    margin-top: 460px;
+    }
+
+#redCircleLeftContour   {height: 72px;
+    width: 72px;
+    border-radius: 100%;
+    background-color: black;
+    position: absolute;
+    margin-left: 259px;
+    margin-top: 449px;}
+
+#redCircleLeft  {height: 70px;
+    width: 70px;
+    border-radius: 100%;
+    background-color: red;
+    position: absolute;
+    margin-left: 260px;
+    margin-top: 450px;
+    }
+
+#redCircleRightContour  {height: 72px;
+    width: 72px;
+    border-radius: 100%;
+    background-color: black;
+    position: absolute;
+    margin-left: 469px;
+    margin-top: 449px;}
+
+#redCircleRight{height: 70px;
+    width: 70px;
+    border-radius: 100%;
+    background-color: red;
+    position: absolute;
+    margin-left: 470px;
+    margin-top: 450px;}
